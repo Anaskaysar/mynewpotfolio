@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Anaskaysar.github.io/mynewpotfolio",
   "name": "portfolio-website-main",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -39,6 +42,7 @@
     "@heroicons/react": "^1.0.6",
     "autoprefixer": "^10.4.2",
     "framer-motion": "^6.2.8",
+    "gh-pages": "^4.0.0",
     "postcss": "^8.4.8",
     "react-icons": "^4.3.1",
     "react-intersection-observer": "^8.33.1",
