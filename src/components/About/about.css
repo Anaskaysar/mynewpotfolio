@@ -1,0 +1,13 @@
+.image {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image img{
+    height: 400px;
+    width: 500px;
+    border-radius: 50%;
+    border: 10px solid white
+}
