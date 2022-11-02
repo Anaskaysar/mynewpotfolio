@@ -24,7 +24,7 @@ const Footer = () => {
             <img src={Logo}></img>
           </div>
           <p className='text-paragraph opacity-80 text-[15px]'>
-            &copy; 2022 Cristian Mihai. All rights reserved.
+            &copy; 2022 Kaysarul Anas. All rights reserved.
           </p>
         </div>
       </div>

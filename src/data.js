@@ -234,13 +234,13 @@ export const contact = [
   {
     icon: <FiMail />,
     title: 'Have a question?',
-    subtitle: 'I am here to help you.',
-    description: 'Email me at hello@youremail.com',
+    subtitle: 'I am here. Do give me a knock.',
+    description: 'Email me at kaysarul.apurba@northsouth.edu',
   },
   {
     icon: <FiMapPin />,
     title: 'Current Location',
-    subtitle: 'Bucharest, Romania',
-    description: 'Serving clients worldwide',
+    subtitle: 'Bashundhara RA, Dhaka, Bangladesh',
+    description: 'I am currently living here',
   },
 ];
